@@ -1,0 +1,1 @@
+Esta pasta pública possui um projeto com diversos exemplos de uso do recurso de Hook do ecossistema React. Cada exemplo poderá ser visualizado quando uma branch for esccolhida. Cada branch tem o nome de um exemplo deste projeto.
