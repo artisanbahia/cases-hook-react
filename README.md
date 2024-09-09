@@ -10,3 +10,7 @@ Na branch "UseState_case03" há uma mudança substancial, em que dupliquei o mec
 
 ![image](https://github.com/user-attachments/assets/80aa1c01-caba-4780-91fb-a37bc9728ccc)
 
+Na branch "UseState_case04" usei três vezes o mesmo componente dentro de outro componente e, com artifício de props, foi possível configurar o valor de incremento e decremento para cada uma das reutilizações.
+
+![image](https://github.com/user-attachments/assets/926afe83-b157-4db4-a52d-6d7951d7736b)
+
