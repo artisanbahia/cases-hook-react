@@ -14,3 +14,7 @@ Na branch "UseState_case04" usei três vezes o mesmo componente dentro de outro 
 
 ![image](https://github.com/user-attachments/assets/926afe83-b157-4db4-a52d-6d7951d7736b)
 
+Na branch "UseState_case05" há um consumo mútuo entre um componente que importa outro componente. No que componente que importa, há a passagem do retorno de uma função como valor de uma prop utilizada para a construção do componente que é importado e, desta maneira, ao clicarmos no botão ATUALIZAR, há atualização do valor de uma variável. A imagem às seguir evidencia o mecanismo.
+
+![image](https://github.com/user-attachments/assets/9b8433eb-9d9b-4821-8524-587cc31f3ed3)
+
