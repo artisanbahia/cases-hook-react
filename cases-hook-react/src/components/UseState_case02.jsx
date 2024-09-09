@@ -28,7 +28,7 @@ export default () => {
             </div>
             <div>
                 
-                <p class="context">Neste caso, ao clicar no botão somar ou subtrair, uma arrow function que está no onClick dos buttons possui parâmetro e opera o cálculo adequadamente. Neste exemplo, o valor do parâmetro 'a' é igual a 10.</p>
+                <p class="context">Neste caso, ao clicar no botão somar ou subtrair, uma arrow function que está no onClick dos buttons possui parâmetro e opera o cálculo adequadamente. Neste exemplo, o valor do parâmetro 'a' é igual a 10. Sem uso da arrow function não seria possível passar argumentos diretamente para a função no onClick.</p>
             </div>
             <div id="main">
             
