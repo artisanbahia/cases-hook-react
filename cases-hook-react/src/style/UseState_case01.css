@@ -101,3 +101,10 @@ button:hover{
     justify-content: center;
     margin-top: 50px;
 }
+
+.box-buttons{
+    padding: 20px;
+    border: 1px solid #eee;
+    border-radius: 10px;
+    margin: 20px;
+}
