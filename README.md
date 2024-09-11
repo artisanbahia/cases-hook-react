@@ -20,5 +20,6 @@ Na branch "UseState_case05" há um consumo mútuo entre um componente que import
 
 Na Branch "UseState_case06" um componente pai importa dois componentes filhos que, por sua vez, recebem, via props, funções para implementar em seus botões de incremento e decremento. Desta forma, o primeiro componente filho incrementa ou decrementa 5 unidades e o segundo incrementa ou decrementa 10 unidades. No componente pai há uma variável que sofrerá mudança de estado a partir do acionamento de qualquer dos 4 botões.
 
-![image](https://github.com/user-attachments/assets/98b70e88-fbcf-4145-b9fa-b294aa257f61)
+![image](https://github.com/user-attachments/assets/fa6536e5-7f84-472d-96c5-bffe124a7b9c)
+
 
