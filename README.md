@@ -1,4 +1,4 @@
-Esta pasta pública possui um projeto com diversos exemplos de uso do recurso Hook do ecossistema React. Cada exemplo poderá ser visualizado quando uma branch for esccolhida. Cada branch tem o nome de um exemplo deste projeto.
+Esta pasta pública é fruto do esforço de um estudo programado sobre o tema 'Hook' do ecossistema React. Cada exemplo poderá ser visualizado quando uma branch for selecionada. Cada exercício está consolidado em uma branch.
 
 Na branch "UseState_case01" empreguei useState para realização de operações matemáticas simples. Veja recorte da view:
 
