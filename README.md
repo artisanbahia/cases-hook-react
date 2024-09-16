@@ -26,3 +26,8 @@ Na Branch "UseState_case07" recorro a funcionalidades da base da linguagem para 
 
 IMAGEM AQUI...
 
+Na branch UseState_case08 atualizo, ao clicar em cada um dos botões, o valor de uma propriedade do objeto cliente. O objeto foi passado para o useState e em cada um dos botões , no onClick, atribuo um novo valor para cada uma das propriedades.
+
+![UseState_case08](https://github.com/user-attachments/assets/10c6e9f2-734f-451b-a2a9-907f10f7d8f1)
+
+
